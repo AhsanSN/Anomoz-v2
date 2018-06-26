@@ -1,0 +1,1 @@
+<form action=" " method="post"><fieldset><p><input type="text" name="email" required placeholder="Username" ></p> <!-- JS because of IE support; better: placeholder="Username" --> <br><p><input type="password" name="password" placeholder="Password" required ></p> <br> <input type="submit" value="Login"></p></fieldset></form>

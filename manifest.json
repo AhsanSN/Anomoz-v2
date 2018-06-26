@@ -1,0 +1,22 @@
+{
+  "gcm_sender_id": "103953800507",
+  "short_name": "Anomoz",
+  "name": "Anomoz",
+  "icons": [
+    {
+      "src": "profiles/g1.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "profiles/h1.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "home.php",
+  "background_color": "#3367D6",
+  "display": "standalone",
+  "scope": ".",
+  "theme_color": "#3367D6"
+}

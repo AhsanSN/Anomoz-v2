@@ -1,0 +1,38 @@
+[02-Jun-2018 11:51:48 UTC] PHP Fatal error:  Call to a member function query() on null in /home/anomozco/public_html/add_messages/their_public.php on line 45
+[02-Jun-2018 11:52:09 UTC] PHP Fatal error:  Call to a member function query() on null in /home/anomozco/public_html/add_messages/their_public.php on line 45
+[02-Jun-2018 11:52:45 UTC] PHP Fatal error:  Call to a member function query() on null in /home/anomozco/public_html/add_messages/their_public.php on line 45
+[02-Jun-2018 11:53:27 UTC] PHP Fatal error:  Call to a member function query() on null in /home/anomozco/public_html/add_messages/their_public.php on line 45
+[02-Jun-2018 11:53:32 UTC] PHP Fatal error:  Call to a member function query() on null in /home/anomozco/public_html/add_messages/their_public.php on line 45
+[02-Jun-2018 11:53:41 UTC] PHP Fatal error:  Call to a member function query() on null in /home/anomozco/public_html/add_messages/their_public.php on line 45
+[02-Jun-2018 11:54:16 UTC] PHP Fatal error:  Call to a member function query() on null in /home/anomozco/public_html/add_messages/their_public.php on line 45
+[02-Jun-2018 11:55:22 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/anomozco/public_html/add_messages/their_public.php on line 9
+[02-Jun-2018 11:55:22 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/anomozco/public_html/add_messages/their_public.php on line 17
+[02-Jun-2018 11:55:22 UTC] PHP Fatal error:  Call to a member function query() on null in /home/anomozco/public_html/add_messages/their_public.php on line 23
+[02-Jun-2018 11:55:31 UTC] PHP Fatal error:  Call to a member function query() on null in /home/anomozco/public_html/add_messages/their_public.php on line 47
+[02-Jun-2018 11:57:54 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/anomozco/public_html/add_messages/their_public.php on line 10
+[02-Jun-2018 11:57:54 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/anomozco/public_html/add_messages/their_public.php on line 18
+[02-Jun-2018 11:57:54 UTC] PHP Fatal error:  Call to a member function query() on null in /home/anomozco/public_html/add_messages/their_public.php on line 24
+[02-Jun-2018 11:58:14 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/anomozco/public_html/add_messages/their_public.php on line 10
+[02-Jun-2018 11:58:14 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/anomozco/public_html/add_messages/their_public.php on line 17
+[02-Jun-2018 11:58:14 UTC] PHP Fatal error:  Call to a member function query() on null in /home/anomozco/public_html/add_messages/their_public.php on line 23
+[02-Jun-2018 11:58:49 UTC] PHP Warning:  include_once(global.php): failed to open stream: No such file or directory in /home/anomozco/public_html/add_messages/their_public.php on line 3
+[02-Jun-2018 11:58:49 UTC] PHP Warning:  include_once(): Failed opening 'global.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/anomozco/public_html/add_messages/their_public.php on line 3
+[02-Jun-2018 11:58:49 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/anomozco/public_html/add_messages/their_public.php on line 11
+[02-Jun-2018 11:58:49 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/anomozco/public_html/add_messages/their_public.php on line 18
+[02-Jun-2018 11:58:49 UTC] PHP Fatal error:  Call to a member function query() on null in /home/anomozco/public_html/add_messages/their_public.php on line 24
+[02-Jun-2018 11:58:57 UTC] PHP Warning:  include_once(global.php): failed to open stream: No such file or directory in /home/anomozco/public_html/add_messages/their_public.php on line 3
+[02-Jun-2018 11:58:57 UTC] PHP Warning:  include_once(): Failed opening 'global.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/anomozco/public_html/add_messages/their_public.php on line 3
+[02-Jun-2018 11:58:57 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/anomozco/public_html/add_messages/their_public.php on line 11
+[02-Jun-2018 11:58:57 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/anomozco/public_html/add_messages/their_public.php on line 18
+[02-Jun-2018 11:58:57 UTC] PHP Fatal error:  Call to a member function query() on null in /home/anomozco/public_html/add_messages/their_public.php on line 24
+[02-Jun-2018 14:55:57 UTC] PHP Fatal error:  Call to a member function query() on null in /home/anomozco/public_html/add_messages/their_public.php on line 52
+[03-Jun-2018 05:24:52 UTC] PHP Fatal error:  Call to a member function query() on null in /home/anomozco/public_html/add_messages/their_public.php on line 51
+[03-Jun-2018 15:21:05 UTC] PHP Fatal error:  Call to a member function query() on null in /home/anomozco/public_html/add_messages/my_public.php on line 36
+[06-Jun-2018 13:34:39 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/anomozco/public_html/add_messages/my_public.php on line 13
+[06-Jun-2018 13:34:39 UTC] PHP Warning:  getimagesize(): Filename cannot be empty in /home/anomozco/public_html/add_messages/my_public.php on line 25
+[06-Jun-2018 13:34:54 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/anomozco/public_html/add_messages/my_public.php on line 13
+[06-Jun-2018 13:34:54 UTC] PHP Warning:  getimagesize(): Filename cannot be empty in /home/anomozco/public_html/add_messages/my_public.php on line 25
+[06-Jun-2018 13:35:36 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/anomozco/public_html/add_messages/my_public.php on line 14
+[06-Jun-2018 13:35:36 UTC] PHP Warning:  getimagesize(): Filename cannot be empty in /home/anomozco/public_html/add_messages/my_public.php on line 26
+[06-Jun-2018 13:36:05 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/anomozco/public_html/add_messages/my_public.php on line 14
+[06-Jun-2018 13:36:05 UTC] PHP Warning:  getimagesize(): Filename cannot be empty in /home/anomozco/public_html/add_messages/my_public.php on line 26
