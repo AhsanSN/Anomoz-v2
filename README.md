@@ -14,3 +14,11 @@ A anonymous chatting application where people can chat in groups on different to
 8) Anomoz is where you can create hidden groups to talk about a subject.
 9) Anomoz is where you are share messages with images.
 10) Anomoz is where you can chat with people without even having an account.
+
+## Features
+1) Progressive web app
+2) Add to homescreen option
+3) Push notifications
+4) Google Signin
+
+### link: https://www.anomoz.com
