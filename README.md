@@ -1,5 +1,94 @@
 # Anomoz-v2 (The final Anomoz)
 
+## Screenshots
+
+<table>
+  <tbody>
+    <tr>
+      <!-- Video 1 -->
+      <td align="center">
+          <img width="290" alt="Simply Notify" src="/screenshots/Screenshot%20(532).png">
+          <br>
+      </td>
+      <!-- Video 2 -->
+      <td align="center">
+          <img width="290" alt="Simply Notify" src="/screenshots/Screenshot%20(533).png">
+          <br>
+      </td>
+      <!-- Video 3 -->
+      <td align="center">
+          <img width="290" alt="Simply Notify" src="/screenshots/Screenshot%20(534).png">
+          <br>
+      </td>
+    </tr>
+    <tr>
+      <!-- Video 4 -->
+      <td align="center">
+          <img width="290" alt="Simply Notify" src="/screenshots/Screenshot%20(535).png">
+          <br>
+      </td>
+      <!-- Video 5 -->
+      <td align="center">
+          <img width="290" alt="Simply Notify" src="/screenshots/Screenshot%20(536).png">
+          <br>
+      </td>
+      <td align="center">
+          <img width="290" alt="Simply Notify" src="/screenshots/Screenshot%20(537).png">
+          <br>
+      </td>
+      <!-- Video 6 -->
+      <tr>
+      <td align="center">
+          <img width="290" alt="Simply Notify" src="/screenshots/Screenshot%20(538).png">
+          <br>
+      </td>
+        <td align="center">
+          <img width="290" alt="Simply Notify" src="/screenshots/Screenshot%20(539).png">
+          <br>
+      </td>
+        <td align="center">
+          <img width="290" alt="Simply Notify" src="/screenshots/Screenshot%20(540).png">
+          <br>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+          <img width="290" alt="Simply Notify" src="/screenshots/Screenshot%20(541).png">
+          <br>
+      </td>
+        <td align="center">
+          <img width="290" alt="Simply Notify" src="/screenshots/Screenshot%20(542).png">
+          <br>
+      </td>
+        <td align="center">
+          <img width="290" alt="Simply Notify" src="/screenshots/Screenshot%20(542).png">
+          <br>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+          <img width="290" alt="Simply Notify" src="/screenshots/Screenshot%20(543).png">
+          <br>
+      </td>
+        <td align="center">
+          <img width="290" alt="Simply Notify" src="/screenshots/Screenshot%20(544).png">
+          <br>
+      </td>
+        <td align="center">
+          <img width="290" alt="Simply Notify" src="/screenshots/Screenshot%20(545).png">
+          <br>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+          <img width="290" alt="Simply Notify" src="/screenshots/Screenshot%20(546).png">
+          <br>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
 ## Short Description:
 A anonymous chatting application where people can chat in groups on different topics. People can also be invited on one's wall.
 
